@@ -1,2 +1,2 @@
 # bulk-RCE
-Bulk to exploit RCE vulnerability
+To bulk exploit RCE vulnerability
